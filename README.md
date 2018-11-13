@@ -2,4 +2,4 @@
 
 Quick tutorial
 
-Starting a GitHub account to start projects that I am working on. 
+Starting a GitHub account to store projects that I am working on. 
